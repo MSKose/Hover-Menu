@@ -1,2 +1,2 @@
 # Hover-Menu
-[Click here fot the final product](https://mskose.github.io/Hover-Menu/)
+[Click here for the final product](https://mskose.github.io/Hover-Menu/)
